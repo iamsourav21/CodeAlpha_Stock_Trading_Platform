@@ -1,0 +1,6 @@
+{
+  "name": "Java Stock Trading Platform",
+  "description": "A professional Core Java & Swing Desktop Stock Trading Application with full OOP architecture, live market simulation thread, file persistence, UML diagrams, and Java source code explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
