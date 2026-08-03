@@ -116,7 +116,8 @@ A background thread updates stock prices automatically at regular intervals.
 
 # 📸 Screenshots
 
-> Add screenshots of your application here.
+<img width="1577" height="1079" alt="image" src="https://github.com/user-attachments/assets/2f1674cc-7689-4f6c-90f3-8d182cbe28d7" />
+
 
 - Login Screen
 - Dashboard
